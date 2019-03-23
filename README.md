@@ -1,5 +1,5 @@
-# Application on : Unsupervised Learning
-## ICA-Music-separation-signal-project
+# Machine Learning (UnSupervised Learning)
+## ICA-Music-Separation-Signal-Project
 ### Independent Component Analysis Lab
 In this notebook, we'll use Independent Component Analysis to retrieve original signals from three observations each of which contains a different mix of the original signals. This is the same problem explained in the ICA video.
 
